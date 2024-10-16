@@ -1,0 +1,6 @@
+@TimerMicroservice_HostAddress = http://localhost:5066
+
+GET {{TimerMicroservice_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
